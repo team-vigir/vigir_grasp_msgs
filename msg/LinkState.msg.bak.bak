@@ -1,0 +1,4 @@
+Header    header
+
+string[]  name
+flor_grasp_msgs/Tactile[] tactile_array
