@@ -25,6 +25,7 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs moveit_msgs roscpp rospy s
     InverseReachabilityForGraspRequest.msg
     InverseReachabilityWithPoseRequest.msg
     TemplateSelection.msg
+    JointCommands.msg
     Tactile.msg
     LinkState.msg
     HandStatus.msg
