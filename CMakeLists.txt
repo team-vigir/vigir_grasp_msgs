@@ -21,6 +21,7 @@ find_package(catkin REQUIRED COMPONENTS geometry_msgs moveit_msgs roscpp rospy s
  add_message_files(
    FILES
     GraspState.msg
+    GraspStatus.msg
     GraspSelection.msg
     InverseReachabilityForGraspRequest.msg
     InverseReachabilityWithPoseRequest.msg
